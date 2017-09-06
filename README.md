@@ -6,7 +6,7 @@ You don't have know docker to use this solution.
 ## Installing
 
 ```bash
-npm install -g usdocker-mssql
+npm install -g @usdocker/usdocker @usdocker/mssql
 ```
 
 ## Start the Microsoft Sql service

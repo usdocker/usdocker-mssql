@@ -1,6 +1,6 @@
 {
   "name": "@usdocker/mssql",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "USDocker script for mssql ",
   "main": "usdocker_mssql.js",
   "scripts": {
